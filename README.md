@@ -1,5 +1,5 @@
 # Pos + JPA
-Pos System created Using layered architecture and JPA 
+Pos System created Using layered architecture and Native Hibernate
 ## Technologies Used
 * Mysql
 * JavaFx
